@@ -34,6 +34,3 @@ A comparative architectural analysis was conducted between a baseline SimpleRNN 
 MSE was deliberately chosen over MAE because its quadratic nature heavily penalizes large predictive deviations, actively forcing the model to prioritize capital preservation and baseline stability.
 * **Final Model MSE:** `0.0005`
 
-```bash
-git clone [https://github.com/your-username/tesla-stock-lstm-forecaster.git](https://github.com/your-username/tesla-stock-lstm-forecaster.git)
-cd tesla-stock-lstm-forecaster
